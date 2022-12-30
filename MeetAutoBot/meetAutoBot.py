@@ -102,7 +102,7 @@ timeTable = [['Mon',['','english', 'sst', 'punjabi', 'math', 'bio']], ['Tue',['p
 
 period_time = ['09:00:00', '09:50:00', '10:40:00', '11:45:00', '12:35:00', '13:25:00']
 
-discordUrl = 'https://discord.com/api/webhooks/933664631971516416/L6nZiojGhp2paYunm7pNstO1YoPkMtXnV01VJvzIyFAxbLP5_PUV-La9Iqd-5uiw7CrG'
+discordUrl = ''
 
 connection()
 
